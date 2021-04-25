@@ -194,14 +194,6 @@ class DrawView: UIView {
         let blue = UIColor.blue
         blue.setStroke()
         path_blue.stroke()
-//        context.
-//        context.setLineCap(.square)
-//        context.setLineWidth(8.0)
-        
-//        context.setStrokeColor(UIColor.red.cgColor)
-//        context.strokePath();
-//        let nextPoint = CGPoint(x: 12, y: 23)
-//        path.move(to: nextPoint)
     }
     
     func drawFigure(selectedFigure: Figure) {
